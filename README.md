@@ -1,6 +1,6 @@
 <div align= "center"> 
   <a href="https://solved.ac/dhk086512">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=widmin77" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=prnmj" />
   </a>
 </div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=widmin77&utm_content=farm">
